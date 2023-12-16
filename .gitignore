@@ -1,0 +1,7 @@
+.env
+cosign.pub
+.idea
+logrus.log
+go.mod
+go.sum
+package
